@@ -1,1 +1,1 @@
-# web-programlama-vize-devi
+# web-programlama-vize-odevi
